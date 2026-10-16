@@ -1,0 +1,9 @@
+.DS_Store
+*.log
+.env
+.env.*
+node_modules/
+public/
+out/
+.remotion/
+my-clips/
